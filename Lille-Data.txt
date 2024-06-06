@@ -1,0 +1,223 @@
+V/0000/Lille-CHR B-Calmette/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0001/CHR Oscar Lambret/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0002/Porte des Postes/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0003/Wazemmes/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0004/Gambetta/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0005/Republique Braux Arts/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0006/Rihour/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0007/Gare Lille Flandre/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0008/Caulier/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0009/Fives/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0010/Marbrerie/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0011/Hellemmes/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0012/Lezennes/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0013/Pont de Bois/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0014/Villeneuve d'Ascq Hotel de Ville/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0015/Triolo/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0016/Cite Scientifique/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0017/Quatre Cantons/M1/Lille-CHR B-Calmette, Quatre Cantons
+V/0018/Lomme-Saint-Philibert/M2/Lomme-Saint-Philibert, CH Dron
+V/0019/Bourg/M2/Lomme-Saint-Philibert, CH Dron
+V/0020/Maison des Enfants/M2/Lomme-Saint-Philibert, CH Dron
+V/0021/Mitterie/M2/Lomme-Saint-Philibert, CH Dron
+V/0022/Pont Superieur/M2/Lomme-Saint-Philibert, CH Dron
+V/0023/Lomme-Lambersart/M2/Lomme-Saint-Philibert, CH Dron
+V/0024/Canteleu/M2/Lomme-Saint-Philibert, CH Dron
+V/0025/Bois Blancs/M2/Lomme-Saint-Philibert, CH Dron
+V/0026/Porte de Lille/M2/Lomme-Saint-Philibert, CH Dron
+V/0027/Cormontaigne/M2/Lomme-Saint-Philibert, CH Dron
+V/0028/Montebello/M2/Lomme-Saint-Philibert, CH Dron
+V/0029/Porte des Postes/M2/Lomme-Saint-Philibert, CH Dron
+V/0030/Porte d'Arras/M2/Lomme-Saint-Philibert, CH Dron
+V/0031/Porte de Douai/M2/Lomme-Saint-Philibert, CH Dron
+V/0032/Porte de Valenciennes/M2/Lomme-Saint-Philibert, CH Dron
+V/0033/Lille-Grand Palais/M2/Lomme-Saint-Philibert, CH Dron
+V/0034/Mairie de Lille/M2/Lomme-Saint-Philibert, CH Dron
+V/0035/Gare Lille Flandre/M2/Lomme-Saint-Philibert, CH Dron
+V/0036/Gare Lille Europe/M2/Lomme-Saint-Philibert, CH Dron
+V/0037/St-Maurice Pellevoisin/M2/Lomme-Saint-Philibert, CH Dron
+V/0038/Mons Sarts/M2/Lomme-Saint-Philibert, CH Dron
+V/0039/Mairie de Mons/M2/Lomme-Saint-Philibert, CH Dron
+V/0040/Les Pres/M2/Lomme-Saint-Philibert, CH Dron
+V/0041/Jean Jaures/M2/Lomme-Saint-Philibert, CH Dron
+V/0042/Wasquehal Pave de Lille/M2/Lomme-Saint-Philibert, CH Dron
+V/0043/Wasquehal Hotel de Ville/M2/Lomme-Saint-Philibert, CH Dron
+V/0044/Croix-Centre/M2/Lomme-Saint-Philibert, CH Dron
+V/0045/Croix-Mairie/M2/Lomme-Saint-Philibert, CH Dron
+V/0046/Epeule Montesqieu/M2/Lomme-Saint-Philibert, CH Dron
+V/0047/Roubaix Charles de Gaulle/M2/Lomme-Saint-Philibert, CH Dron
+V/0048/Roubaix Euroteleport/M2/Lomme-Saint-Philibert, CH Dron
+V/0049/Roubaix Grand Place/M2/Lomme-Saint-Philibert, CH Dron
+V/0050/Gare Jean Lebas/M2/Lomme-Saint-Philibert, CH Dron
+V/0051/Alsace/M2/Lomme-Saint-Philibert, CH Dron
+V/0052/Mercure/M2/Lomme-Saint-Philibert, CH Dron
+V/0053/Carliers/M2/Lomme-Saint-Philibert, CH Dron
+V/0054/Tourcoing Sebastopol/M2/Lomme-Saint-Philibert, CH Dron
+V/0055/Tourcoing Centre/M2/Lomme-Saint-Philibert, CH Dron
+V/0056/Colbert/M2/Lomme-Saint-Philibert, CH Dron
+V/0057/Phalempins/M2/Lomme-Saint-Philibert, CH Dron
+V/0058/Pont de Neuville/M2/Lomme-Saint-Philibert, CH Dron
+V/0059/Bourgogne/M2/Lomme-Saint-Philibert, CH Dron
+V/0060/CH Dron/M2/Lomme-Saint-Philibert, CH Dron
+V/0106/Fort de Mons/M2/Lomme-Saint-Philibert, CH Dron
+V/0061/Gare Lille Flandre/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0062/Gare Lille Europe/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0063/Romarin/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0064/Botanique/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0065/Saint-Maur/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0066/Buisson/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0067/Brossolette/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0068/Clemenceau – Hippodrome/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0069/Croise-Laroche/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0070/Acacias/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0071/Pont de Wasquehal/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0072/La Terrasse/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0073/Wasquehal Pave de Lille/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0074/Le Sart/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0075/Planche Epinoy/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0076/La Marque/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0077/Villa Cavrois/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0078/Bol d'Air/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0079/Parc Barbieux/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0080/Hopital Victor Provo/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0081/Jean Moulin/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0082/Alfred Mongy/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0083/Roubaix Euroteleport/TramR/Gare Lille Flandre, Roubaix Euroteleport
+V/0084/Gare Lille Flandre/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0085/Gare Lille Europe/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0086/Romarin/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0087/Botanique/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0088/Saint-Maur/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0089/Buisson/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0090/Brossolette/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0091/Clemenceau – Hippodrome/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0092/Croise-Laroche/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0093/Foch/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0094/Le Quesnes/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0095/Cerisaie Centre d'Affaires/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0096/Chateau Rouge/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0097/Cartelot/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0098/Grand Cottignies/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0099/Triez/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0100/Trois Suisses/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0101/Faidherbe/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0102/Ma Campagne/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0103/Pont Hydraulique/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0104/Victoire/TramT/Gare Lille Flandre, Tourcoing Centre
+V/0105/Tourcoing Centre/TramT/Gare Lille Flandre, Tourcoing Centre
+E 0 1 120
+E 1 2 120
+E 2 3 120
+E 3 4 120
+E 4 5 120
+E 5 6 120
+E 6 7 120
+E 7 8 120
+E 8 9 120
+E 9 10 120
+E 10 11 120
+E 11 12 120
+E 12 13 120
+E 13 14 120
+E 14 15 120
+E 15 16 120
+E 16 17 120
+E 18 19 120
+E 19 20 120
+E 20 21 120
+E 21 22 120
+E 22 23 120
+E 23 24 120
+E 24 25 120
+E 25 26 120
+E 26 27 120
+E 27 28 120
+E 28 29 120
+E 29 30 120
+E 30 31 120
+E 31 32 120
+E 32 33 120
+E 33 34 120
+E 35 34 120
+E 35 36 120
+E 36 37 120
+E 37 38 120
+E 38 39 120
+E 39 106 120
+E 106 40 120
+E 40 41 120
+E 41 42 120
+E 42 43 120
+E 43 44 120
+E 44 45 120
+E 45 46 120
+E 46 47 120
+E 47 48 120
+E 48 49 120
+E 49 50 120
+E 50 51 120
+E 51 52 120
+E 52 53 120
+E 53 54 120
+E 54 55 120
+E 55 56 120
+E 56 57 120
+E 57 58 120
+E 58 59 120
+E 59 60 120
+E 61 62 120
+E 62 63 120
+E 63 64 120
+E 64 65 120
+E 65 66 120
+E 66 67 120
+E 67 68 120
+E 68 69 120
+E 69 70 120
+E 70 71 120
+E 71 72 120
+E 72 73 120
+E 73 74 120
+E 74 75 120
+E 75 76 120
+E 76 77 120
+E 77 78 120
+E 78 79 120
+E 79 80 120
+E 80 81 120
+E 81 82 120
+E 82 83 120
+E 84 85 120
+E 85 86 120
+E 86 87 120
+E 87 88 120
+E 88 89 120
+E 89 90 120
+E 90 91 120
+E 91 92 120
+E 92 93 120
+E 93 94 120
+E 94 95 120
+E 95 96 120
+E 96 97 120
+E 97 98 120
+E 98 99 120
+E 99 100 120
+E 100 101 120
+E 101 102 120 
+E 102 103 120
+E 103 104 120
+E 104 105 120
+E 2 29 1
+E 7 35 1
+E 7 61 1
+E 7 84 1
+E 35 61 1
+E 35 84 1
+E 36 62 1
+E 36 85 1
+E 62 85 1
+E 69 92 1
+E 42 73 1
+E 48 83 1
+E 55 105 1

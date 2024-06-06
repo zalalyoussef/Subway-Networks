@@ -1,0 +1,242 @@
+V/0000/Gare de Vaise/RER-D/Gare de Vaise, Gare de Venissieux
+V/0001/Valmy/RER-D/Gare de Vaise, Gare de Venissieux
+V/0002/Gorge de Loup/RER-D/Gare de Vaise, Gare de Venissieux
+V/0003/Vieux Lyon/RER-D/Gare de Vaise, Gare de Venissieux
+V/0004/Bellecour/RER-D/Gare de Vaise, Gare de Venissieux
+V/0005/Guillotiere/RER-D/Gare de Vaise, Gare de Venissieux
+V/0006/Saxe-Gambetta/RER-D/Gare de Vaise, Gare de Venissieux
+V/0007/Sans-Souci/RER-D/Gare de Vaise, Gare de Venissieux
+V/0008/Monplaisir-Lumiere/RER-D/Gare de Vaise, Gare de Venissieux
+V/0009/Grange Blanche/RER-D/Gare de Vaise, Gare de Venissieux
+V/0010/Laennec/RER-D/Gare de Vaise, Gare de Venissieux
+V/0011/Mermoz Pinel/RER-D/Gare de Vaise, Gare de Venissieux
+V/0012/Parilly/RER-D/Gare de Vaise, Gare de Venissieux
+V/0013/Gare de Venissieux/RER-D/Gare de Vaise, Gare de Venissieux
+V/0014/Cuire/RER-C/Cuire, Hotel de Ville
+V/0015/Henon/RER-C/Cuire, Hotel de Ville
+V/0016/Croix-Rousse/RER-C/Cuire, Hotel de Ville
+V/0017/Croix-Paquet/RER-C/Cuire, Hotel de Ville
+V/0018/Hotel de Ville/RER-C/Cuire, Hotel de Ville
+V/0019/Perrache/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0020/Ampere/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0021/Bellecour/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0022/Cordeliers/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0023/Hotel de Ville/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0024/Foch/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0025/Massena/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0026/Charpennes/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0027/Republique/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0028/Gratte-Ciel/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0029/Flachet/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0030/Cusset/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0031/Laurent-Bonnevay/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0032/Vaulx-en-VelinRoute La Soie/RER-A/Perrache, Vaulx-en-VelinRoute La Soie
+V/0033/Stade de Gerland/RER-B/Stade de Gerland, Charpennes
+V/0034/Debourg/RER-B/Stade de Gerland, Charpennes
+V/0035/Place Jean Jaures/RER-B/Stade de Gerland, Charpennes
+V/0036/Jean Mace/RER-B/Stade de Gerland, Charpennes
+V/0037/Saxe-Gambetta/RER-B/Stade de Gerland, Charpennes
+V/0038/Place Guichard/RER-B/Stade de Gerland, Charpennes
+V/0039/Part-Dieu/RER-B/Stade de Gerland, Charpennes
+V/0040/Brotteaux/RER-B/Stade de Gerland, Charpennes
+V/0041/Charpennes/RER-B/Stade de Gerland, Charpennes
+V/0042/Montrochet/Tram1/Montrochet, IUT-Feyssine
+V/0043/Sainte-Blandine/Tram1/Montrochet, IUT-Feyssine
+V/0044/Suchet/Tram1/Montrochet, IUT-Feyssine
+V/0045/Perrache/Tram1/Montrochet, IUT-Feyssine
+V/0046/Quai Claude Bernard/Tram1/Montrochet, IUT-Feyssine
+V/0047/Rue de l'Universite/Tram1/Montrochet, IUT-Feyssine
+V/0048/Saint-Andre/Tram1/Montrochet, IUT-Feyssine
+V/0049/Guillotiere/Tram1/Montrochet, IUT-Feyssine
+V/0050/Liberte/Tram1/Montrochet, IUT-Feyssine
+V/0051/Palais de Justice-Mairie de 3eme/Tram1/Montrochet, IUT-Feyssine
+V/0052/Part-Dieu Servent/Tram1/Montrochet, IUT-Feyssine
+V/0053/Thiers-Lafayette/Tram1/Montrochet, IUT-Feyssine
+V/0054/College Bellecombe/Tram1/Montrochet, IUT-Feyssine
+V/0055/Charpennes/Tram1/Montrochet, IUT-Feyssine
+V/0056/Le Tonkin/Tram1/Montrochet, IUT-Feyssine
+V/0057/Condorcet/Tram1/Montrochet, IUT-Feyssine
+V/0058/Universite Lyon 1/Tram1/Montrochet, IUT-Feyssine
+V/0059/La Doua-Gaston Berger/Tram1/Montrochet, IUT-Feyssine
+V/0060/Insa-Einstein/Tram1/Montrochet, IUT-Feyssine
+V/0061/Croix-Luizet/Tram1/Montrochet, IUT-Feyssine
+V/0062/IUT-Feyssine/Tram1/Montrochet, IUT-Feyssine
+V/0063/Perrache/Tram2/Perrache, St-Priest Bel-Air
+V/0064/Centre Berthelot/Tram2/Perrache, St-Priest Bel-Air
+V/0065/Jean Mace/Tram2/Perrache, St-Priest Bel-Air
+V/0066/Garibaldi-Berthelot/Tram2/Perrache, St-Priest Bel-Air
+V/0067/Route de Vienne/Tram2/Perrache, St-Priest Bel-Air
+V/0068/Jet d'eau Mendes-France/Tram2/Perrache, St-Priest Bel-Air
+V/0069/Villon/Tram2/Perrache, St-Priest Bel-Air
+V/0070/Bachut-Mairie de 8eme/Tram2/Perrache, St-Priest Bel-Air
+V/0071/Jean Maryse Bastie/Tram2/Perrache, St-Priest Bel-Air
+V/0072/Grange Blanche/Tram2/Perrache, St-Priest Bel-Air
+V/0073/Ambroise Pare/Tram2/Perrache, St-Priest Bel-Air
+V/0074/Vinatier/Tram2/Perrache, St-Priest Bel-Air
+V/0075/Essarts-Iris/Tram2/Perrache, St-Priest Bel-Air
+V/0076/Boutasse-Camille Rousset/Tram2/Perrache, St-Priest Bel-Air
+V/0077/Hotel de Ville-Bron/Tram2/Perrache, St-Priest Bel-Air
+V/0078/Les Alizes/Tram2/Perrache, St-Priest Bel-Air
+V/0079/Rebufer/Tram2/Perrache, St-Priest Bel-Air
+V/0080/Parilly-Universite/Tram2/Perrache, St-Priest Bel-Air
+V/0081/Europe-Universite/Tram2/Perrache, St-Priest Bel-Air
+V/0082/Porte des Alpes/Tram2/Perrache, St-Priest Bel-Air
+V/0083/Parc Technologique/Tram2/Perrache, St-Priest Bel-Air
+V/0084/Hauts de Feuilly/Tram2/Perrache, St-Priest Bel-Air
+V/0085/Salvador Allende/Tram2/Perrache, St-Priest Bel-Air
+V/0086/Alfred de Vigny/Tram2/Perrache, St-Priest Bel-Air
+V/0087/St-Priest Hotel de Ville/Tram2/Perrache, St-Priest Bel-Air
+V/0088/Esplanade des Arts/Tram2/Perrache, St-Priest Bel-Air
+V/0089/Jules Ferry/Tram2/Perrache, St-Priest Bel-Air
+V/0090/Cordiere/Tram2/Perrache, St-Priest Bel-Air
+V/0091/St-Priest Bel-Air/Tram2/Perrache, St-Priest Bel-Air
+V/0092/Part-Dieu/Tram3/Part-Dieu, Meyzieu ZI
+V/0093/Dauphine Lacassagne/Tram3/Part-Dieu, Meyzieu ZI
+V/0094/Reconaissance Balzac/Tram3/Part-Dieu, Meyzieu ZI
+V/0095/Gare de Villeurbanne/Tram3/Part-Dieu, Meyzieu ZI
+V/0096/Vaulx-en-VelinRoute La Soie/Tram3/Part-Dieu, Meyzieu ZI
+V/0097/Decines Centre/Tram3/Part-Dieu, Meyzieu ZI
+V/0098/Decines Grand Large/Tram3/Part-Dieu, Meyzieu ZI
+V/0099/Meyzieu Gare/Tram3/Part-Dieu, Meyzieu ZI
+V/0100/Meyzieu ZI/Tram3/Part-Dieu, Meyzieu ZI
+V/0101/Jet d'eau Mendes-France/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0102/Lycee Lumiere/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0103/EU Musse/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0104/Professeur Beauvisage/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0105/EU Viviani/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0106/Joliot Curie/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0107/La Borelle/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0108/Gare de Venissieux/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0109/Croizat/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0110/Marcel Houel/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0111/Lycee Jacques Brel/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0112/Venissy/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0113/Division Leclerc/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0114/Maurice Thorez/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0115/Lenine-Corsiere/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+V/0116/Hopital Feyzin-Venissieux/Tram4/Jet d'eau Mendes-France, Hopital Feyzin-Venissieux
+E 0 1 120
+E 1 2 120
+E 2 3 120
+E 3 4 120
+E 4 5 120
+E 5 6 120
+E 6 7 120
+E 7 8 120
+E 8 9 120
+E 9 10 120
+E 10 11 120
+E 11 12 120 
+E 12 13 120
+E 14 15 120
+E 15 16 120
+E 16 17 120
+E 17 18 120
+E 19 20 120
+E 20 21 120
+E 21 22 120
+E 22 23 120
+E 23 24 120
+E 24 25 120
+E 25 26 120
+E 26 27 120
+E 27 28 120
+E 28 29 120
+E 29 30 120
+E 30 31 120
+E 31 32 120
+E 33 34 120
+E 34 35 120
+E 35 36 120
+E 36 37 120
+E 37 38 120
+E 38 39 120
+E 39 40 120
+E 40 41 120
+E 42 43 120
+E 43 44 120
+E 44 45 120
+E 45 46 120
+E 46 47 120
+E 47 48 120
+E 48 49 120
+E 49 50 120
+E 50 51 120
+E 51 52 120
+E 52 53 120
+E 53 54 120
+E 54 55 120
+E 55 56 120
+E 56 57 120
+E 57 58 120
+E 58 59 120
+E 59 60 120
+E 60 61 120
+E 61 62 120
+E 63 64 120
+E 64 65 120
+E 65 66 120
+E 66 67 120
+E 67 68 120
+E 68 69 120
+E 69 70 120
+E 70 71 120
+E 71 72 120
+E 72 73 120
+E 73 74 120
+E 74 75 120
+E 75 76 120
+E 76 77 120
+E 77 78 120
+E 78 79 120
+E 79 80 120
+E 80 81 120
+E 81 82 120
+E 82 83 120
+E 83 84 120
+E 84 85 120
+E 85 86 120
+E 86 87 120
+E 87 88 120
+E 88 89 120
+E 89 90 120
+E 90 91 120
+E 92 93 120
+E 93 94 120
+E 94 95 120
+E 95 96 120
+E 96 97 120
+E 97 98 120
+E 98 99 120
+E 99 100 120
+E 101 102 120
+E 102 103 120
+E 103 104 120
+E 104 105 120
+E 105 106 120
+E 106 107 120
+E 107 108 120
+E 108 109 120
+E 109 110 120
+E 110 111 120
+E 111 112 120
+E 112 113 120
+E 113 114 120
+E 114 115 120
+E 115 116 120
+E 4 21 1
+E 5 49 1
+E 6 37 1
+E 9 72 1
+E 13 108 1
+E 19 63 1
+E 19 45 1
+E 45 63 1
+E 23 18 1
+E 26 41 1
+E 26 55 1
+E 55 41 1
+E 32 96 1
+E 36 65 1
+E 39 92 1
+E 101 68 1
